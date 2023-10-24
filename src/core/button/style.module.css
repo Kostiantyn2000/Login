@@ -1,0 +1,4 @@
+.button {
+  @apply h-[70px] text-white text-3xl font-normal px-[117px] py-[18px] rounded-[30px_50px];
+  background: #3c615c;
+}

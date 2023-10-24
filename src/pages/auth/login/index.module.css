@@ -1,0 +1,12 @@
+.wrapper {
+  @apply px-[75px] py-[45px] w-full min-h-max shadow-[0px_20px_30px_0px_rgba(0,0,0,0.25)] rounded-[50px] border-[10px] border-solid border-[#5B8078];
+  background: #fff;
+}
+
+.main {
+  @apply flex items-center justify-between;
+}
+
+.title {
+  @apply text-center  text-[50px] text-teal-800 not-italic font-normal;
+}
