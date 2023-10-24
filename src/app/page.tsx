@@ -1,7 +1,7 @@
 "use client";
 
-import { AuthPages } from "@/pages/auth/login";
-import { HomePages } from "@/pages/home";
+import { AuthPages } from "@/pages-component/auth/login";
+import { HomePages } from "@/pages-component/home";
 import { getAuthLogin } from "@/store/auth/selectors";
 import { useSelector } from "react-redux";
 
